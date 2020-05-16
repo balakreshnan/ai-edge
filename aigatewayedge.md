@@ -1,4 +1,4 @@
-# AI @ Edge - AI at edge gateway architecture
+# AI @ Edge - AI at Edge Gateway Architecture
 
 ## Use Case
 
